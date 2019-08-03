@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![Freelancer Preview](https://supercarboy88.github.io/Bootstrap-Portfolio/img/Bootstrap-Portfolio.png)](https://supercarboy88.github.io/Bootstrap-Portfolio/)
 
 **[View Live Preview](https://supercarboy88.github.io/Bootstrap-Portfolio/)**
 
